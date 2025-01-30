@@ -1,4 +1,3 @@
-// Shree Ganeshay namah 
 
 const multer = require("multer")
 
